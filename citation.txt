@@ -1,0 +1,7 @@
+@inproceedings{REPO020,
+    author = "Xie, Yiming and Gadelha, Matheus and Yang, Fengting and Zhou, Xiaowei and Jiang, Huaizu",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "6219--6228",
+    title = "{PlanarRecon: Real-time 3D Plane Detection and Reconstruction from Posed Monocular Videos}",
+    year = "2022"
+}
